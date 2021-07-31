@@ -1,1 +1,2 @@
-# docs.mochiswap.io
+# Initial page
+
