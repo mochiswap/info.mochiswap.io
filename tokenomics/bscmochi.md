@@ -1,2 +1,2 @@
-# 💰 bscMochi
+# 💰 bscMOCHI
 
