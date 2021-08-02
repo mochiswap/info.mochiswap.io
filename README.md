@@ -47,6 +47,10 @@ Mochiswap has multi-sig for the community treasury! That means that the funds ar
 
 The Mochi team is working to push out more features/products in the near future! Keep an eye out for the Mochi gang 😉
 
+## 🤼 The Mochi team
+
+Mochiswap was created by [**Hashparty**](https://twitter.com/0xhashparty), [**Frankydev**](https://twitter.com/frankydev1) ****and **Mu**. However, there are multiple people collaborating and volunteering on the development of Mochiswap.
+
 ![Mochiswap](.gitbook/assets/mochi-02-original-size-.png)
 
 

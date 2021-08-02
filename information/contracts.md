@@ -38,3 +38,7 @@
 * USDC-USDT: 0xb3072c553d4f93ae4ff4dcc3342ea723a305bfef
 * bscSUSHI-1SUSHI: 0x8310d078684efe5b91728add034fcde73ca0e6ee
 
+{% hint style="info" %}
+We will update this section when new pools are added/removed.
+{% endhint %}
+

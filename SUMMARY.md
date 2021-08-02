@@ -8,6 +8,7 @@
 * [🌺 Single staking](products/single-staking.md)
 * [🚀 ONEMOON](products/onemoon.md)
 * [🔥 xMOCHI](products/xmochi.md)
+* [🟣 APESOX](products/apesox.md)
 
 ## 💸 Tokenomics
 
