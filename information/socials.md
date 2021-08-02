@@ -6,7 +6,7 @@ The Mochi community is active on multiple social medias:
 * \*\*\*\*[**Telegram**](https://t.me/joinchat/DAjujZlrzmJmOTZh)\*\*\*\*
 * \*\*\*\*[**Twitter**](https://twitter.com/mochiswap)\*\*\*\*
 
-**Stay in touch!**
+**Stay in touch Mochi gangs!**
 
 
 

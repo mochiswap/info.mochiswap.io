@@ -25,11 +25,11 @@ Mochiswap has multiple amazing features!
 
 ### 🚜 Farms
 
-Pair LP tokens and farm hMOCHI & bscMochi. Mochiswap has a wide selection of LP farms so there should be something for everyone! The current multiplier for the farms is at 1X so the selling pressure is minimal.
+Pair LP tokens and farm hMOCHI & bMochi. Mochiswap has a wide selection of LP farms so there should be something for everyone! The current multiplier for the farms is at 1X so the selling pressure is minimal.
 
 ### 🌺 Single staking
 
-Mochiswap also gives you the option to single stake your tokens \(both hMOCHI and bscMochi\). APY is lower when compared to the farms, but if you're not feeling adventurous, Mochiswap has got you covered!
+Mochiswap also gives you the option to single stake your tokens \(both hMOCHI and bMochi\). APY is lower when compared to the farms, but if you're not feeling adventurous, Mochiswap has got you covered!
 
 ### 🚀 ONEMOON
 

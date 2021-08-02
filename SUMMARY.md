@@ -12,7 +12,7 @@
 ## 💸 Tokenomics
 
 * [💰 hMOCHI](tokenomics/hmochi.md)
-* [💰 bscMOCHI](tokenomics/bscmochi.md)
+* [💰 bMOCHI](tokenomics/bscmochi.md)
 
 ## ✨ Information
 
@@ -25,5 +25,7 @@
 ## 🆘 Help
 
 * [🔗 Metamask - Harmony](help/metamask-harmony.md)
+* [🔗 Metamask - Binance Smart Chain](help/metamask-binance-smart-chain.md)
 * [😱 Troubleshooting](help/troubleshooting.md)
+* [👨‍🌾 How to farm](help/how-to-farm.md)
 
