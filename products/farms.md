@@ -1,6 +1,6 @@
 # 🚜 Farms
 
-Mochiswap offers a wide array of farms. Check all of them out [HERE](https://harmony.mochiswap.io/farms).
+Mochiswap offers a wide array of farms. Check all of them out [**HERE**](https://harmony.mochiswap.io/farms).
 
 The farms used to have multipliers up until recently \(see schedule below\).
 
@@ -24,4 +24,14 @@ Right now the farms are on a 1x multiplier so that means the selling pressure is
 {% hint style="danger" %}
 **Before you start farming, please get yourself accustomed to basic farming notions and understand what the risks and benefits of DeFi are.** [**Impermanent Loss \(IL\)**](https://academy.binance.com/en/articles/impermanent-loss-explained) **is one such risk. High APR farms are a benefit.**
 {% endhint %}
+
+{% page-ref page="../help/how-to-farm.md" %}
+
+{% page-ref page="../help/metamask-harmony.md" %}
+
+{% page-ref page="../help/metamask-binance-smart-chain.md" %}
+
+
+
+
 

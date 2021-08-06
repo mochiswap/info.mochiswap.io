@@ -6,7 +6,7 @@ description: Mochi ecosystem
 
 ## What is Mochiswap?
 
-[**Mochiswap**](https://mochiswap.io/) is one of the leading DEXes on the [Harmony](https://www.harmony.one/) blockchain. Mochiswap is led by a passionate and knowledgeable team of developers and it offers a wide range of products/features.
+[**Mochiswap**](https://mochiswap.io/) is one of the leading DEXes on the [**Harmony**](https://www.harmony.one/) ****blockchain. Mochiswap is led by a passionate and knowledgeable team of developers and it offers a wide range of products/features.
 
 Mochiswap was one of the first DEXes launched **\(March 28, 2021\)** on the Harmony blockchain and it's been growing steadily.
 
@@ -41,7 +41,7 @@ xMOCHI is one of the latest releases for the Harmony side of the DEX. You can st
 
 ### 🔒 Security
 
-Mochiswap has multi-sig for the community treasury! That means that the funds are under the control of a 3 party multisig wallet with the cooperation of the Harmony team and two of its known and trusted multisig participants. So in short, treasury funds are SAFU. You can read more about the multi-sig wallet [HERE](https://mochiswap.medium.com/introducing-multi-sig-on-mochiswap-bd5a7af5c278).
+Mochiswap has multi-sig for the community treasury! That means that the funds are under the control of a 3 party multisig wallet with the cooperation of the Harmony team and two of its known and trusted multisig participants. So in short, treasury funds are SAFU. You can read more about the multi-sig wallet [**HERE**](https://mochiswap.medium.com/introducing-multi-sig-on-mochiswap-bd5a7af5c278).
 
 ### 🔜 More features coming soon!
 
