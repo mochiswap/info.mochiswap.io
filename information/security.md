@@ -6,7 +6,7 @@ We are also actively pursuing checks and audits for our smart contracts from var
 
 ### Multi-sig wallet
 
-Mochiswap's treasury is in a multi-sig wallet \(Gnossis\). In short this means that the Mochi team has to make proposals for moving funds from the treasury and the proposal needs to be signed by 3 out of 3 signers.
+Mochiswap's treasury is in a multi-sig wallet \(Gnosis\). In short this means that the Mochi team has to make proposals for moving funds from the treasury and the proposal needs to be signed by 3 out of 3 signers.
 
 You can read more about the Multi-sig feature in our extensive Medium article [**HERE**](https://mochiswap.medium.com/introducing-multi-sig-on-mochiswap-bd5a7af5c278).
 
