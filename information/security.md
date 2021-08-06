@@ -1,6 +1,6 @@
 # 🔒 Security
 
-The Mochi team cares a lot about the security of its products. All developments are checked thoroughly before deployement and mistakes that occur \(such as website downtimes\) are quickly fixed.
+The Mochi team cares a lot about the security of its products. All developments are checked thoroughly before deployment and mistakes that occur \(such as website downtimes\) are quickly fixed.
 
 We are also actively pursuing checks and audits for our smart contracts from various companies. Even though usually these checks don't add too much value, the community values them.
 
