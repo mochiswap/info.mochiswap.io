@@ -2,7 +2,7 @@
 
 Mochiswap also offers single staking to its community. You can find all the single stek pools [**HERE**](https://harmony.mochiswap.io/pools).
 
-At the moment you can single stake the following tokens:
+At the moment you can single stake the following tokens \(only available on Harmony\):
 
 * **hMOCHI**
 * **bMOCHI**
