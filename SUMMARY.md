@@ -27,6 +27,7 @@
 
 * [🔗 Metamask - Harmony](help/metamask-harmony.md)
 * [🔗 Metamask - Binance Smart Chain](help/metamask-binance-smart-chain.md)
+* [🌉 Bridging assets](help/bridging-assets.md)
 * [😱 Troubleshooting](help/troubleshooting.md)
 * [👨‍🌾 How to farm](help/how-to-farm.md)
 
