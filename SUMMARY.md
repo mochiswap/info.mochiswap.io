@@ -22,7 +22,7 @@
 * [🗺️ Roadmap](information/roadmap.md)
 * [📱 Socials](information/socials.md)
 * [📄 Contracts](information/contracts.md)
-* [👊 Parnerships](information/partner-pools.md)
+* [👊 Partnerships](information/partner-pools.md)
 
 ## 🆘 Help
 
