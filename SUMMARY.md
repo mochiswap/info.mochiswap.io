@@ -19,9 +19,10 @@
 
 * [📈 Analytics](information/analytics.md)
 * [🔒 Security](information/security.md)
-* [🗺️  Roadmap](information/roadmap.md)
+* [🗺️ Roadmap](information/roadmap.md)
 * [📱 Socials](information/socials.md)
-* [📄  Contracts](information/contracts.md)
+* [📄 Contracts](information/contracts.md)
+* [👊 Parnerships](information/partner-pools.md)
 
 ## 🆘 Help
 
