@@ -12,8 +12,9 @@
 
 ## 💸 Tokenomics
 
+* [📍 Contracts](tokenomics/contracts.md)
 * [💰 hMOCHI](tokenomics/hmochi.md)
-* [💰 bMOCHI](tokenomics/bscmochi.md)
+* [💰 bMOCHI](tokenomics/bmochi.md)
 
 ## ✨ Information
 
